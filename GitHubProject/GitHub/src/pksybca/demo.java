@@ -6,7 +6,7 @@ public class demo {
 		// TODO Auto-generated method stub
      System.out.println("git hub hellow world");
 	}
-	void display()
-	System.out.println("brach");
+	void display() {
+	System.out.println("brach");}
 
 }
